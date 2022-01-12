@@ -1,0 +1,6 @@
+<meta charset="utf-8">
+<form name="forma" action="noDBnoFormas.php" method="post">
+Kura autora komentarus gribi redzēt?<br>
+autors <input name="ko"><br>
+<input type="submit" name="poga" value="Meklēt">
+</form>

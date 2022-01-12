@@ -1,0 +1,12 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>aforma</title></head><body>
+<form method="post" action="uzDB.php" name="aforma.html"></form>
+Sveicin&#257;ti man&#257; auto gr&#257;mat&#257;!<br>
+numurs<input name="numurs"><br>
+marka<input name="marka"><br>
+krasa<input name="krasa"><br>
+izlaisanas gads<input name="izlaisanas_gads"><br>
+<input name="s" value="S&#363;t&#299;t" type="submit"><br>
+
+
+</body></html>

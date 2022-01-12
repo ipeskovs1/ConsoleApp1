@@ -1,0 +1,12 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>autoForma.html</title></head><body>
+<form method="post" action="uzDB.php" name="autoForma.html"></form>
+
+  Ievad&#299;sim j&#363;su ma&#353;&#299;nu datub&#257;z&#275;!<br>
+Numurs<input name="numurs"><br>
+Marka<input name="marka"><br>
+Kr&#257;sa<input name="krasa"><br>
+Izlai&#353;anas gads<input name="izlaisanas_gads"><br>
+<input name="submit_button" value="Ievad&#299;t" type="submit"><br>
+
+</body></html>
